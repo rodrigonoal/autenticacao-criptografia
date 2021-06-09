@@ -96,9 +96,9 @@ Exemplo de retorno na listagem de pokemons:
 
 Preencha a checklist para finalizar o exercício:
 
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits no seu fork na origem (`git push origin nome-da-branch`)
+-   [X] Resolver o exercício revendo a aula se necessário
+-   [X] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+-   [X] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+-   [X] Pushar os commits no seu fork na origem (`git push origin nome-da-branch`)
 
 ###### tags: `SQL` `módulo 3` `exercício de classe` `postgres` `nodeJS` `modelagem de dados`
